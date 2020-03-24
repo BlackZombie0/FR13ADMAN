@@ -10,4 +10,5 @@ apt-get install python3
 
 apt-get install git
 
-git clone 
+git clone https://github.com/FR13NDS13/FR13ADMAN.git
+
